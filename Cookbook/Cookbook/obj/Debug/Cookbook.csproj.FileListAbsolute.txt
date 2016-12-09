@@ -193,3 +193,5 @@ C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\o
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\WebMatrix.Data.xml
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\WebMatrix.WebData.xml
