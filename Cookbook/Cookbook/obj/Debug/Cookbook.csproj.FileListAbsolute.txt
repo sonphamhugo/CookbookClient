@@ -112,6 +112,7 @@ C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\b
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\Newtonsoft.Json.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Net.Http.Formatting.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Spatial.dll
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Web.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Web.Helpers.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Web.Http.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Web.Http.OData.dll
@@ -181,6 +182,5 @@ C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\b
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\ru\System.Spatial.resources.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
