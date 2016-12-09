@@ -184,3 +184,12 @@ C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\b
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\EntityFramework.SqlServer.dll
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Net.Http.Extensions.dll
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Net.Http.Primitives.dll
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\Antlr3.Runtime.pdb
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\EntityFramework.SqlServer.xml
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Net.Http.Extensions.xml
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Net.Http.Primitives.xml
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\bin\System.Web.Optimization.xml
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.csproj.App.config
