@@ -193,3 +193,4 @@ C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\b
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.csproj.App.config
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.dll
 C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.pdb
+C:\Users\SonPham\Desktop\Cookbook.KCPM\Client\CookbookClient\Cookbook\Cookbook\obj\Debug\Cookbook.csprojResolveAssemblyReference.cache
